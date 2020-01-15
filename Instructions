@@ -1,13 +1,2 @@
-The Iot home automation requiures few basic idea about relays, arduino, Networking and using of assitants like Alexa and Google Assistance.
-The Things that are needed are :-
-    1. NodeMCU.
-    2. Relay module
-    3. Blynk Application
-    4. IFTTT bridge
-    5. Alexa or Google Assistant.
-NodeMCU is over Iot development board which is going to recieve and do the work with relay which works like a switch but have an option to keep the circuit open or closed.
-As you may know that Google assistant and Alexa cannot be used directly , so we need a bridge between NodeMCU and Our assistant
-this bridge is IFTTT, which is a web-based service that allows users to connect between web services so that, when something happens with one service, a trigger goes off and an action takes place automatically on the other
-there is one more thing needed to accomplish the task that is Blynk,
-Blynk connects the NodeMCU with the Internet and give a path location for IFTTT
-Blynk is a mobile application, thus can be used sololy and with combation of other services as well.
+
+
