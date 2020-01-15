@@ -1,2 +1,3 @@
 # NEx_Tech
-The Iot project for the new construction site
+The Iot project for the new constructing houses and Modernizing homes
+
